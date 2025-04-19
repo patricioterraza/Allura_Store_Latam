@@ -25,11 +25,11 @@ Este proyecto se centra en evaluar el desempeño de las cuatro tiendas de AluraS
 
 1. **Ingresos por Tienda**\
    \
-   *Insight:* La **Tienda 3** muestra el mayor ingreso total, lo que indica un alto volumen de ventas o precios unitarios superiores, mientras que la **Tienda 4** presenta el ingreso más bajo.
+   *Insight:* La **Tienda 1** muestra el mayor ingreso total, lo que indica un alto volumen de ventas o precios unitarios superiores, mientras que la **Tienda 4** presenta el ingreso más bajo.
 
 2. **Ventas por Categoría de Producto**\
    \
-   *Insight:* Las categorías de **Productos de Cuidado Personal** y **Accesorios** dominan las ventas en todas las tiendas, sugiriendo oportunidades de expansión o promoción focalizada.
+   *Insight:* Las categorías de **Muebles** y **Electrónicos** dominan las ventas en todas las tiendas, sugiriendo oportunidades de expansión o promoción focalizada.
 
 3. **Calificación Promedio por Tienda**\
    \
@@ -41,17 +41,20 @@ Este proyecto se centra en evaluar el desempeño de las cuatro tiendas de AluraS
 
 5. **Costo de Envío Promedio por Tienda**\
    \
-   *Insight:* La **Tienda 4** presenta el costo de envío promedio más alto, lo que podría impactar en la competitividad de precios.
+   *Insight:* La **Tienda 1** presenta el costo de envío promedio más alto, lo que podría impactar en la competitividad de precios.
 
 > Para generar estos gráficos, se utilizan las librerías **pandas** y **matplotlib** dentro del notebook.
 
 ## Instrucciones para Ejecutar el Notebook
 
 1. Descarga el archivo "AlureStoreLatam.ipynb"
+
+   ![image](https://github.com/user-attachments/assets/2fcdb65f-5f1f-4994-99ef-a8f327b117db)
+
    
 2. Ingresa a tu cuenta de Google Colab (https://colab.research.google.com/) y sube el archivo descargado en el paso Nro. 1:
-![image](https://github.com/user-attachments/assets/574f817e-e37e-459d-8e42-f30b07a1cb50)
-
+   
+   ![image](https://github.com/user-attachments/assets/574f817e-e37e-459d-8e42-f30b07a1cb50)
 
 
 3. Recorre las secciones numeradas (1 a 5) para reproducir los análisis y visualizar los gráficos.
