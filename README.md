@@ -48,8 +48,7 @@ Este proyecto se centra en evaluar el desempeño de las cuatro tiendas de AluraS
 
 >![Calificación promedio por tienda](https://github.com/user-attachments/assets/bde85ccd-615e-4c7d-9402-244c4f1f4f81)
 
-> ![Grafico Ingresos por tienda](https://github.com/user-attachments/assets/977e55a2-9b44-4de2-b9e9-0f046ea6b082)
-
+> ![Costo de envio por tienda](https://github.com/user-attachments/assets/d2f3dcdf-0a5e-42c0-aff5-4d90e0275b03)
 
 
 ## Instrucciones para Ejecutar el Notebook
