@@ -7,7 +7,7 @@ Este proyecto se centra en evaluar el desempeño de las cuatro tiendas de AluraS
 - **Ingresos Totales**: Suma de los precios de venta por tienda.
 - **Ventas por Categoría de Producto**: Identificación de las categorías más y menos populares.
 - **Calificación Promedio de Clientes**: Evaluación de la satisfacción según las reseñas.
-- **Top  y Bottom de Productos**: Productos con mayor y menor número de unidades vendidas.
+- **Productos Más y Menos Vendidos**: Productos con mayor y menor número de unidades vendidas.
 - **Costo de Envío Promedio**: Comparación de costos logísticos entre tiendas.
 
 ## Estructura del Proyecto
