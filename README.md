@@ -1,8 +1,8 @@
-**AluraStoreLatam Analysis**
+**AluraStoreLatam - Sr. Juan**
 
 ## Propósito del Análisis
 
-Este proyecto se centra en evaluar el desempeño de las cuatro tiendas de AluraStore Latam (Tienda 1, Tienda 2, Tienda 3 y Tienda 4) con el fin de determinar cuál de ellas podría considerarse para su venta. El análisis abarca aspectos clave como:
+Este proyecto se centra en evaluar el desempeño de las cuatro tiendas de AluraStore Latam petenecientes al Sr. Juan (Tienda 1, Tienda 2, Tienda 3 y Tienda 4) con el fin de determinar cuál de ellas podría considerarse para su venta. El análisis abarca aspectos clave como:
 
 - **Ingresos Totales**: Suma de los precios de venta por tienda.
 - **Ventas por Categoría de Producto**: Identificación de las categorías más y menos populares.
