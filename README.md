@@ -44,6 +44,13 @@ Este proyecto se centra en evaluar el desempeño de las cuatro tiendas de AluraS
    *Insight:* La **Tienda 1** presenta el costo de envío promedio más alto, lo que podría impactar en la competitividad de precios.
 
 > Para generar estos gráficos, se utilizan las librerías **pandas** y **matplotlib** dentro del notebook.
+>![Grafico Ingresos por tienda](https://github.com/user-attachments/assets/d485882b-36b2-4a9f-8dd3-b45c0de62d1a)
+
+>![Calificación promedio por tienda](https://github.com/user-attachments/assets/bde85ccd-615e-4c7d-9402-244c4f1f4f81)
+
+> ![Grafico Ingresos por tienda](https://github.com/user-attachments/assets/977e55a2-9b44-4de2-b9e9-0f046ea6b082)
+
+
 
 ## Instrucciones para Ejecutar el Notebook
 
